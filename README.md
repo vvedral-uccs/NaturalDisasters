@@ -1,2 +1,2 @@
 # NaturalDisasters
-Repository for group project for GES3050 Cartograph
+Repository for group project for GES3050 Cartography
